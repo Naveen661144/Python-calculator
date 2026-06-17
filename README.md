@@ -1,7 +1,7 @@
 # Python-calculator
 
 ## About 
-this is my first Python project.It is a simple calculator built using python
+This is my first Python project.It is a simple calculator built using python
 
 ##feature
 -addition
